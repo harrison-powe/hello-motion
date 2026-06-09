@@ -1,11 +1,11 @@
 item,description,status,source,notes
-moteus r4.11 developer kit,Integrated BLDC servo developer-kit style path,selected target,https://mjbots.com/products/moteus-r4-11-developer-kit,not purchased
-moteus r4.11 controller,Controller included in developer kit,selected target,https://mjbots.com/products/moteus-r4-11,included in developer kit; not purchased
-mj5208 motor,Motor included in developer kit,selected target,https://mjbots.com/products/moteus-r4-11-developer-kit,included in developer kit; not purchased
-mjcanfd-usb-1x,USB to CAN-FD interface included in developer kit,selected target,https://mjbots.com/products/moteus-r4-11-developer-kit,included in developer kit; not purchased
-24V 5A power supply,Power supply included in developer kit,selected target,https://mjbots.com/products/moteus-r4-11-developer-kit,included in developer kit; not purchased
-CAN communication cable,CAN cable included in developer kit,selected target,https://mjbots.com/products/moteus-r4-11-developer-kit,included in developer kit; not purchased
-bench stand / bracket,Bench stand and bracket included in developer kit,selected target,https://mjbots.com/products/moteus-r4-11-developer-kit,included in developer kit; not purchased
+moteus r4.11 developer kit,Integrated BLDC servo developer-kit style path,ordered,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt
+moteus r4.11 controller,Controller included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11,pending receipt with kit
+mj5208 motor,Motor included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
+mjcanfd-usb-1x,USB to CAN-FD interface included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
+24V 5A power supply,Power supply included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
+CAN communication cable,CAN cable included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
+bench stand / bracket,Bench stand and bracket included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
 safety glasses,Eye protection for bench work,candidate / to verify,,not purchased
 bench clamp or fixture hardware,Fixture support for constrained bench motion,candidate / to verify,,not purchased
 simple guard / shield material,Barrier material for bench motion,candidate / to verify,,not purchased
