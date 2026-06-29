@@ -1,12 +1,12 @@
 item,description,status,source,notes
-moteus r4.11 developer kit,Integrated BLDC servo developer-kit style path,ordered,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt
-moteus r4.11 controller,Controller included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11,pending receipt with kit
-mj5208 motor,Motor included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
-mjcanfd-usb-1x,USB to CAN-FD interface included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
-24V 5A power supply,Power supply included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
-CAN communication cable,CAN cable included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
-bench stand / bracket,Bench stand and bracket included in developer kit,included in ordered kit,https://mjbots.com/products/moteus-r4-11-developer-kit,pending receipt with kit
+moteus r4.11 developer kit,Integrated BLDC servo developer-kit style path,received,https://mjbots.com/products/moteus-r4-11-developer-kit,"received, contents matched (log 003)"
+moteus r4.11 controller,Controller included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11,received (log 003)
+mj5208 motor,Motor included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
+mjcanfd-usb-1x,USB to CAN-FD interface included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
+24V 5A power supply,Power supply included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
+CAN communication cable,CAN cable included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
+bench stand / bracket,Bench stand and bracket included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
 safety glasses,Eye protection for bench work,candidate / to verify,,not purchased
 bench clamp or fixture hardware,Fixture support for constrained bench motion,candidate / to verify,,not purchased
 simple guard / shield material,Barrier material for bench motion,candidate / to verify,,not purchased
-USB cable / host computer requirements,Host connection and software environment,candidate / to verify,,not purchased
+USB cable / host computer requirements,Host connection and software environment,in use,,"kit USB cable + Windows / Python 3.13 host, established (log 004)"
