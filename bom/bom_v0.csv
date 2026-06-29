@@ -6,7 +6,3 @@ mjcanfd-usb-1x,USB to CAN-FD interface included in developer kit,received with k
 24V 5A power supply,Power supply included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
 CAN communication cable,CAN cable included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
 bench stand / bracket,Bench stand and bracket included in developer kit,received with kit,https://mjbots.com/products/moteus-r4-11-developer-kit,received (log 003)
-safety glasses,Eye protection for bench work,candidate / to verify,,not purchased
-bench clamp or fixture hardware,Fixture support for constrained bench motion,candidate / to verify,,not purchased
-simple guard / shield material,Barrier material for bench motion,candidate / to verify,,not purchased
-USB cable / host computer requirements,Host connection and software environment,in use,,"kit USB cable + Windows / Python 3.13 host, established (log 004)"
