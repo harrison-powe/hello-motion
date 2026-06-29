@@ -24,11 +24,11 @@ v0 uses a moteus r4.11 developer-kit style integrated BLDC servo path.
 ## current status
 
 - path selected
-- kit ordered
-- pending receipt
-- hardware not received yet
-- no hardware assembled yet
-- no powered tests yet
+- kit received, contents matched
+- moteus tooling installed; first communication established
+- encoder verified (position tracks hand-rotation, zero commanded torque)
+- no motor calibration yet
+- no commanded motion, no first spin yet
 - no measurements yet
 
 ## references
